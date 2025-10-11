@@ -1,4 +1,5 @@
-class EmailService
+namespace ConsoleApp1.OopPrinciples.Abstraction;
+public class EmailService
 {
   public void sendEmail()
   {
