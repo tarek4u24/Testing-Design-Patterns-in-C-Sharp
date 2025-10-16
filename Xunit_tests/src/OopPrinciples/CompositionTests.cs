@@ -1,6 +1,7 @@
 using ConsoleApp1.src.OopPrinciples.Composition;
 using FluentAssertions;
-class CompositionTests
+namespace Xunit_tests;
+public class CompositionTests
 {
     [Fact]
     public void Car_StartCar_PrintsToConsole()
